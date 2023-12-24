@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wdnc",
+  "name": "WDNC",
+  "description": "Only the mighty ones can use all the power of this client ",
+  "version": "0.0.2",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["God66"],
+  "credits": "Credits to myself for coding/rewriting shit, credits to catalyst team for making a great base client for this op skid",
+  "logoFile": "wdnc.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
