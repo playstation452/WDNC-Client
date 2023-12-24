@@ -1,2 +1,2 @@
 # WDNC-Client
-wdnc on top
+build it yourself
